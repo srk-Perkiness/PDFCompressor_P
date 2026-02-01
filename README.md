@@ -38,7 +38,7 @@ Download from [Ghostscript official site](https://www.ghostscript.com/releases/g
 ### 2. Clone the Repository
 
 ```bash
-git clone https://github.com/sriraj/PDFcompressor.git
+git clone https://github.com/sriraj/PDFcompressor_P.git
 cd PDFcompressor
 ```
 
