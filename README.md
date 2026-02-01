@@ -2,6 +2,9 @@
 
 A desktop GUI application for compressing PDF files, built with Python and Tkinter.
 
+<img width="509" height="443" alt="image" src="https://github.com/user-attachments/assets/2df20200-54cc-413a-9ed4-07a38baa8258" />
+
+
 ## Features
 
 - Simple drag-and-drop style interface
